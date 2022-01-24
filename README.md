@@ -1,7 +1,7 @@
 <h1 align="center">DINESHKUMAR S</h1>
 <h3 align="center">Front-End and Java Developer</h3>
 
-- 🌱 I’m currently learning **Node.js, React**
+- 📖 I’m currently learning **Node.js, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DINESH6302](https://github.com/DINESH6302)
 
